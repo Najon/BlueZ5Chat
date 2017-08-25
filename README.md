@@ -1,3 +1,6 @@
+#  GNU GENERAL PUBLIC LICENSE
+#  Copyright (C) 2017 Julien Massot
+
 You need BlueZ 5 and python dbus and GObject.
 
 The code is mostly inspired by BlueZ python example,
